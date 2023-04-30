@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mika/static/css/main.a5c4b669.css",
+    "main.js": "/mika/static/js/main.b2a2c41d.js",
+    "static/js/787.d33b3ced.chunk.js": "/mika/static/js/787.d33b3ced.chunk.js",
+    "static/media/cloud.gif": "/mika/static/media/cloud.d0a60a5e6857e0bea089.gif",
+    "index.html": "/mika/index.html",
+    "main.a5c4b669.css.map": "/mika/static/css/main.a5c4b669.css.map",
+    "main.b2a2c41d.js.map": "/mika/static/js/main.b2a2c41d.js.map",
+    "787.d33b3ced.chunk.js.map": "/mika/static/js/787.d33b3ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c4b669.css",
+    "static/js/main.b2a2c41d.js"
+  ]
+}
